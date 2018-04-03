@@ -1,0 +1,27 @@
+"entity types": [
+  {
+    "id": "problem",
+    "color": "#0000FF",
+    "default": true
+  },
+  {
+    "id": "test",
+    "color": "#FF0000",
+  },
+  {
+    "id": "treatment",
+    "color": "#777700",
+  },
+  {
+    "id": "anatomical",
+    "color": "#FF2222",
+  },
+  {
+    "id": "behavior",
+    "color": "#557722",
+  },
+  {
+    "id": "PHI",
+    "color": "#443322",
+  }
+]
